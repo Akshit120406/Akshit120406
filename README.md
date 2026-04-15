@@ -31,6 +31,6 @@ I aim to become a full-stack developer and secure a high-paying internship.
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: Ongoing
+- 💼 LinkedIn: www.linkedin.com/in/akshit-singh-716839336
 - 📧 Email: singhakshit124@email.com
 - 🌍 Portfolio: Ongoing
