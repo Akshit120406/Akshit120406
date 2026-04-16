@@ -1,18 +1,18 @@
 # Hi 👋, I'm Akshit Singh
-### 🚀 BCA Student | Aspiring Full-Stack Developer | Java + Web Dev
+### 🚀 BCA Student | Building my My Web Development Skills
 
-- 🔭 Currently working on: Portfolio & Projects
-- 🌱 Learning: Java, DSA, MERN Stack
+- 🔭 Currently working on: Portfolio & real-world Projects
+- 🌱 Learning: HTML, CSS, Javacript, Git & Github
+- 🚀 Next: React → Node.js → Full Stack
 - 🎯 Goal: Internship in 2026
 
 ## 💡 About Me
 
-I am a BCA student focused on building strong fundamentals in Java, DSA, and Web Development.  
-I aim to become a full-stack developer and secure a high-paying internship.
+I am a BCA student building strong fundamentals in web development, with a focus on HTML, CSS, and JavaScript.
 
-- 💻 Passionate about coding & problem-solving  
-- 📈 Focused on growth & discipline  
-- 🧩 Currently improving logic building
+Currently, I am working on projects to improve my problem-solving and logic-building skills while developing a solid understanding of Git and version control.
+
+My goal is to transition into full-stack development by mastering frontend first and gradually moving to backend technologies.
 
 ## 🛠️ Tech Stack
 
@@ -34,3 +34,5 @@ I aim to become a full-stack developer and secure a high-paying internship.
 - 💼 LinkedIn: www.linkedin.com/in/akshit-singh-716839336
 - 📧 Email: singhakshit124@email.com
 - 🌍 Portfolio: Ongoing
+- 📷 Instagram: https://www.instagram.com/bokuwa_.aksh
+- ✖️ X: https://x.com/akshit1204
