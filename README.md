@@ -1,5 +1,5 @@
 # Hi 👋, I'm Akshit Singh
-### 🚀 BCA Student | Building my My Web Development Skills
+### 🚀 BCA Student | Building My Web Development Skills
 
 - 🔭 Currently working on: Portfolio & real-world Projects
 - 🌱 Learning: HTML, CSS, Javacript, Git & Github
